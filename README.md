@@ -4,7 +4,8 @@ A simple and interactive Quiz App built using Flutter. This app allows users to 
 
 ## Project Preview
 
-![image]()
+![image](https://github.com/user-attachments/assets/0607a7d5-ffe9-4e6d-8099-95550037874f)
+
 
 
 Explore the live experience [Click here](https://quiz-app-flutter.netlify.app)
